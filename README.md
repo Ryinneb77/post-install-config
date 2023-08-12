@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/ZOUm27S.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/1t12J8p.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration and Usage</h1>
@@ -72,9 +72,7 @@ Step 6. Configure Users Directory (customers): </p>
 Sev-A (1 hour, 24/7)<p>
 Sev-B (4 hours, 24/7)<p>
 Sev-C (8 hours, business hours)<p>
-<p>
-<img src="https://i.imgur.com/vMtmeG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 Step8. Configure Help Topics: </p>
 
 * Admin Panel -> Manage ->Help Topics -> Add New Help Topic <p>
